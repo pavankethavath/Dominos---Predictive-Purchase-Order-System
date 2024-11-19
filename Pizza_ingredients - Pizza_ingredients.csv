@@ -1,0 +1,519 @@
+pizza_name_id,pizza_name,pizza_ingredients,Items_Qty_In_Grams
+bbq_ckn_l,The Barbecue Chicken Pizza,Barbecued Chicken,40
+bbq_ckn_l,The Barbecue Chicken Pizza,Red Peppers,15
+bbq_ckn_l,The Barbecue Chicken Pizza,Green Peppers,20
+bbq_ckn_l,The Barbecue Chicken Pizza,Tomatoes,30
+bbq_ckn_l,The Barbecue Chicken Pizza,Red Onions,60
+bbq_ckn_l,The Barbecue Chicken Pizza,Barbecue Sauce,15
+bbq_ckn_m,The Barbecue Chicken Pizza,Barbecued Chicken,30
+bbq_ckn_m,The Barbecue Chicken Pizza,Red Peppers,10
+bbq_ckn_m,The Barbecue Chicken Pizza,Green Peppers,15
+bbq_ckn_m,The Barbecue Chicken Pizza,Tomatoes,20
+bbq_ckn_m,The Barbecue Chicken Pizza,Red Onions,40
+bbq_ckn_m,The Barbecue Chicken Pizza,Barbecue Sauce,10
+bbq_ckn_s,The Barbecue Chicken Pizza,Barbecued Chicken,20
+bbq_ckn_s,The Barbecue Chicken Pizza,Red Peppers,5
+bbq_ckn_s,The Barbecue Chicken Pizza,Green Peppers,20
+bbq_ckn_s,The Barbecue Chicken Pizza,Tomatoes,10
+bbq_ckn_s,The Barbecue Chicken Pizza,Red Onions,20
+bbq_ckn_s,The Barbecue Chicken Pizza,Barbecue Sauce,5
+big_meat_s,The Big Meat Pizza,Bacon,150
+big_meat_s,The Big Meat Pizza,Pepperoni,50
+big_meat_s,The Big Meat Pizza,Italian Sausage,10
+big_meat_s,The Big Meat Pizza,Chorizo Sausage,50
+brie_carre_s,The Brie Carre Pizza,Brie Carre Cheese,30
+brie_carre_s,The Brie Carre Pizza,Prosciutto,30
+brie_carre_s,The Brie Carre Pizza,Caramelized Onions,
+brie_carre_s,The Brie Carre Pizza,Pears,10
+brie_carre_s,The Brie Carre Pizza,Thyme,5
+brie_carre_s,The Brie Carre Pizza,Garlic,5
+calabrese_l,The Calabrese Pizza,?duja Salami,60
+calabrese_l,The Calabrese Pizza,Pancetta,90
+calabrese_l,The Calabrese Pizza,Tomatoes,30
+calabrese_l,The Calabrese Pizza,Red Onions,60
+calabrese_l,The Calabrese Pizza,Friggitello Peppers,15
+calabrese_l,The Calabrese Pizza,Garlic,15
+calabrese_m,The Calabrese Pizza,?duja Salami,40
+calabrese_m,The Calabrese Pizza,Pancetta,60
+calabrese_m,The Calabrese Pizza,Tomatoes,20
+calabrese_m,The Calabrese Pizza,Red Onions,40
+calabrese_m,The Calabrese Pizza,Friggitello Peppers,10
+calabrese_m,The Calabrese Pizza,Garlic,10
+calabrese_s,The Calabrese Pizza,?duja Salami,20
+calabrese_s,The Calabrese Pizza,Pancetta,30
+calabrese_s,The Calabrese Pizza,Tomatoes,10
+calabrese_s,The Calabrese Pizza,Red Onions,20
+calabrese_s,The Calabrese Pizza,Friggitello Peppers,5
+calabrese_s,The Calabrese Pizza,Garlic,5
+cali_ckn_l,The California Chicken Pizza,Chicken,150
+cali_ckn_l,The California Chicken Pizza,Artichokes,20
+cali_ckn_l,The California Chicken Pizza,Spinach,45
+cali_ckn_l,The California Chicken Pizza,Garlic,15
+cali_ckn_l,The California Chicken Pizza,Jalapeno Peppers,15
+cali_ckn_l,The California Chicken Pizza,Fontina Cheese,30
+cali_ckn_l,The California Chicken Pizza,Gouda Cheese,30
+cali_ckn_m,The California Chicken Pizza,Chicken,100
+cali_ckn_m,The California Chicken Pizza,Artichokes,15
+cali_ckn_m,The California Chicken Pizza,Spinach,30
+cali_ckn_m,The California Chicken Pizza,Garlic,10
+cali_ckn_m,The California Chicken Pizza,Jalapeno Peppers,10
+cali_ckn_m,The California Chicken Pizza,Fontina Cheese,20
+cali_ckn_m,The California Chicken Pizza,Gouda Cheese,20
+cali_ckn_s,The California Chicken Pizza,Chicken,50
+cali_ckn_s,The California Chicken Pizza,Artichokes,10
+cali_ckn_s,The California Chicken Pizza,Spinach,15
+cali_ckn_s,The California Chicken Pizza,Garlic,5
+cali_ckn_s,The California Chicken Pizza,Jalapeno Peppers,5
+cali_ckn_s,The California Chicken Pizza,Fontina Cheese,10
+cali_ckn_s,The California Chicken Pizza,Gouda Cheese,10
+ckn_alfredo_l,The Chicken Alfredo Pizza,Chicken,150
+ckn_alfredo_l,The Chicken Alfredo Pizza,Red Onions,60
+ckn_alfredo_l,The Chicken Alfredo Pizza,Red Peppers,15
+ckn_alfredo_l,The Chicken Alfredo Pizza,Mushrooms,60
+ckn_alfredo_l,The Chicken Alfredo Pizza,Asiago Cheese,30
+ckn_alfredo_l,The Chicken Alfredo Pizza,Alfredo Sauce,20
+ckn_alfredo_m,The Chicken Alfredo Pizza,Chicken,100
+ckn_alfredo_m,The Chicken Alfredo Pizza,Red Onions,40
+ckn_alfredo_m,The Chicken Alfredo Pizza,Red Peppers,10
+ckn_alfredo_m,The Chicken Alfredo Pizza,Mushrooms,40
+ckn_alfredo_m,The Chicken Alfredo Pizza,Asiago Cheese,20
+ckn_alfredo_m,The Chicken Alfredo Pizza,Alfredo Sauce,15
+ckn_alfredo_s,The Chicken Alfredo Pizza,Chicken,50
+ckn_alfredo_s,The Chicken Alfredo Pizza,Red Onions,20
+ckn_alfredo_s,The Chicken Alfredo Pizza,Red Peppers,5
+ckn_alfredo_s,The Chicken Alfredo Pizza,Mushrooms,20
+ckn_alfredo_s,The Chicken Alfredo Pizza,Asiago Cheese,10
+ckn_alfredo_s,The Chicken Alfredo Pizza,Alfredo Sauce,10
+ckn_pesto_l,The Chicken Pesto Pizza,Chicken,150
+ckn_pesto_l,The Chicken Pesto Pizza,Tomatoes,30
+ckn_pesto_l,The Chicken Pesto Pizza,Red Peppers,15
+ckn_pesto_l,The Chicken Pesto Pizza,Spinach,45
+ckn_pesto_l,The Chicken Pesto Pizza,Garlic,15
+ckn_pesto_l,The Chicken Pesto Pizza,Pesto Sauce,30
+ckn_pesto_m,The Chicken Pesto Pizza,Chicken,100
+ckn_pesto_m,The Chicken Pesto Pizza,Tomatoes,20
+ckn_pesto_m,The Chicken Pesto Pizza,Red Peppers,10
+ckn_pesto_m,The Chicken Pesto Pizza,Spinach,30
+ckn_pesto_m,The Chicken Pesto Pizza,Garlic,10
+ckn_pesto_m,The Chicken Pesto Pizza,Pesto Sauce,20
+ckn_pesto_s,The Chicken Pesto Pizza,Chicken,50
+ckn_pesto_s,The Chicken Pesto Pizza,Tomatoes,10
+ckn_pesto_s,The Chicken Pesto Pizza,Red Peppers,5
+ckn_pesto_s,The Chicken Pesto Pizza,Spinach,15
+ckn_pesto_s,The Chicken Pesto Pizza,Garlic,5
+ckn_pesto_s,The Chicken Pesto Pizza,Pesto Sauce,10
+classic_dlx_l,The Classic Deluxe Pizza,Pepperoni,60
+classic_dlx_l,The Classic Deluxe Pizza,Mushrooms,60
+classic_dlx_l,The Classic Deluxe Pizza,Red Onions,60
+classic_dlx_l,The Classic Deluxe Pizza,Red Peppers,15
+classic_dlx_l,The Classic Deluxe Pizza,Bacon,120
+classic_dlx_m,The Classic Deluxe Pizza,Pepperoni,40
+classic_dlx_m,The Classic Deluxe Pizza,Mushrooms,40
+classic_dlx_m,The Classic Deluxe Pizza,Red Onions,40
+classic_dlx_m,The Classic Deluxe Pizza,Red Peppers,10
+classic_dlx_m,The Classic Deluxe Pizza,Bacon,100
+classic_dlx_s,The Classic Deluxe Pizza,Pepperoni,20
+classic_dlx_s,The Classic Deluxe Pizza,Mushrooms,20
+classic_dlx_s,The Classic Deluxe Pizza,Red Onions,20
+classic_dlx_s,The Classic Deluxe Pizza,Red Peppers,5
+classic_dlx_s,The Classic Deluxe Pizza,Bacon,50
+five_cheese_l,The Five Cheese Pizza,Mozzarella Cheese,30
+five_cheese_l,The Five Cheese Pizza,Provolone Cheese,30
+five_cheese_l,The Five Cheese Pizza,Smoked Gouda Cheese,30
+five_cheese_l,The Five Cheese Pizza,Romano Cheese,30
+five_cheese_l,The Five Cheese Pizza,Blue Cheese,30
+five_cheese_l,The Five Cheese Pizza,Garlic,15
+four_cheese_l,The Four Cheese Pizza,Ricotta Cheese,50
+four_cheese_l,The Four Cheese Pizza,Gorgonzola Piccante Cheese,40
+four_cheese_l,The Four Cheese Pizza,Mozzarella Cheese,20
+four_cheese_l,The Four Cheese Pizza,Parmigiano Reggiano Cheese,90
+four_cheese_l,The Four Cheese Pizza,Garlic,15
+four_cheese_m,The Four Cheese Pizza,Ricotta Cheese,25
+four_cheese_m,The Four Cheese Pizza,Gorgonzola Piccante Cheese,20
+four_cheese_m,The Four Cheese Pizza,Mozzarella Cheese,10
+four_cheese_m,The Four Cheese Pizza,Parmigiano Reggiano Cheese,60
+four_cheese_m,The Four Cheese Pizza,Garlic,10
+green_garden_l,The Green Garden Pizza,Spinach,45
+green_garden_l,The Green Garden Pizza,Mushrooms,60
+green_garden_l,The Green Garden Pizza,Tomatoes,30
+green_garden_l,The Green Garden Pizza,Green Olives,15
+green_garden_l,The Green Garden Pizza,Feta Cheese,40
+green_garden_m,The Green Garden Pizza,Spinach,30
+green_garden_m,The Green Garden Pizza,Mushrooms,40
+green_garden_m,The Green Garden Pizza,Tomatoes,20
+green_garden_m,The Green Garden Pizza,Green Olives,10
+green_garden_m,The Green Garden Pizza,Feta Cheese,20
+green_garden_s,The Green Garden Pizza,Spinach,15
+green_garden_s,The Green Garden Pizza,Mushrooms,20
+green_garden_s,The Green Garden Pizza,Tomatoes,10
+green_garden_s,The Green Garden Pizza,Green Olives,5
+green_garden_s,The Green Garden Pizza,Feta Cheese,10
+hawaiian_l,The Hawaiian Pizza,Sliced Ham,
+hawaiian_l,The Hawaiian Pizza,Pineapple,45
+hawaiian_l,The Hawaiian Pizza,Mozzarella Cheese,30
+hawaiian_m,The Hawaiian Pizza,Sliced Ham,
+hawaiian_m,The Hawaiian Pizza,Pineapple,30
+hawaiian_m,The Hawaiian Pizza,Mozzarella Cheese,20
+hawaiian_s,The Hawaiian Pizza,Sliced Ham,
+hawaiian_s,The Hawaiian Pizza,Pineapple,15
+hawaiian_s,The Hawaiian Pizza,Mozzarella Cheese,10
+ital_cpcllo_l,The Italian Capocollo Pizza,Capocollo,150
+ital_cpcllo_l,The Italian Capocollo Pizza,Red Peppers,15
+ital_cpcllo_l,The Italian Capocollo Pizza,Tomatoes,30
+ital_cpcllo_l,The Italian Capocollo Pizza,Goat Cheese,60
+ital_cpcllo_l,The Italian Capocollo Pizza,Garlic,15
+ital_cpcllo_l,The Italian Capocollo Pizza,Oregano,15
+ital_cpcllo_m,The Italian Capocollo Pizza,Capocollo,100
+ital_cpcllo_m,The Italian Capocollo Pizza,Red Peppers,10
+ital_cpcllo_m,The Italian Capocollo Pizza,Tomatoes,20
+ital_cpcllo_m,The Italian Capocollo Pizza,Goat Cheese,40
+ital_cpcllo_m,The Italian Capocollo Pizza,Garlic,10
+ital_cpcllo_m,The Italian Capocollo Pizza,Oregano,10
+ital_cpcllo_s,The Italian Capocollo Pizza,Capocollo,50
+ital_cpcllo_s,The Italian Capocollo Pizza,Red Peppers,5
+ital_cpcllo_s,The Italian Capocollo Pizza,Tomatoes,10
+ital_cpcllo_s,The Italian Capocollo Pizza,Goat Cheese,20
+ital_cpcllo_s,The Italian Capocollo Pizza,Garlic,5
+ital_cpcllo_s,The Italian Capocollo Pizza,Oregano,5
+ital_supr_l,The Italian Supreme Pizza,Calabrese Salami,150
+ital_supr_l,The Italian Supreme Pizza,Capocollo,150
+ital_supr_l,The Italian Supreme Pizza,Tomatoes,30
+ital_supr_l,The Italian Supreme Pizza,Red Onions,60
+ital_supr_l,The Italian Supreme Pizza,Green Olives,15
+ital_supr_l,The Italian Supreme Pizza,Garlic,15
+ital_supr_m,The Italian Supreme Pizza,Calabrese Salami,100
+ital_supr_m,The Italian Supreme Pizza,Capocollo,100
+ital_supr_m,The Italian Supreme Pizza,Tomatoes,20
+ital_supr_m,The Italian Supreme Pizza,Red Onions,40
+ital_supr_m,The Italian Supreme Pizza,Green Olives,10
+ital_supr_m,The Italian Supreme Pizza,Garlic,10
+ital_supr_s,The Italian Supreme Pizza,Calabrese Salami,50
+ital_supr_s,The Italian Supreme Pizza,Capocollo,50
+ital_supr_s,The Italian Supreme Pizza,Tomatoes,10
+ital_supr_s,The Italian Supreme Pizza,Red Onions,20
+ital_supr_s,The Italian Supreme Pizza,Green Olives,5
+ital_supr_s,The Italian Supreme Pizza,Garlic,5
+ital_veggie_l,The Italian Vegetables Pizza,Eggplant,60
+ital_veggie_l,The Italian Vegetables Pizza,Artichokes,20
+ital_veggie_l,The Italian Vegetables Pizza,Tomatoes,30
+ital_veggie_l,The Italian Vegetables Pizza,Zucchini,30
+ital_veggie_l,The Italian Vegetables Pizza,Red Peppers,15
+ital_veggie_l,The Italian Vegetables Pizza,Garlic,15
+ital_veggie_l,The Italian Vegetables Pizza,Pesto Sauce,30
+ital_veggie_m,The Italian Vegetables Pizza,Eggplant,40
+ital_veggie_m,The Italian Vegetables Pizza,Artichokes,15
+ital_veggie_m,The Italian Vegetables Pizza,Tomatoes,20
+ital_veggie_m,The Italian Vegetables Pizza,Zucchini,20
+ital_veggie_m,The Italian Vegetables Pizza,Red Peppers,10
+ital_veggie_m,The Italian Vegetables Pizza,Garlic,10
+ital_veggie_m,The Italian Vegetables Pizza,Pesto Sauce,20
+ital_veggie_s,The Italian Vegetables Pizza,Eggplant,20
+ital_veggie_s,The Italian Vegetables Pizza,Artichokes,10
+ital_veggie_s,The Italian Vegetables Pizza,Tomatoes,10
+ital_veggie_s,The Italian Vegetables Pizza,Zucchini,10
+ital_veggie_s,The Italian Vegetables Pizza,Red Peppers,5
+ital_veggie_s,The Italian Vegetables Pizza,Garlic,5
+ital_veggie_s,The Italian Vegetables Pizza,Pesto Sauce,10
+mediterraneo_l,The Mediterranean Pizza,Spinach,45
+mediterraneo_l,The Mediterranean Pizza,Artichokes,20
+mediterraneo_l,The Mediterranean Pizza,Kalamata Olives,15
+mediterraneo_l,The Mediterranean Pizza,Sun-dried Tomatoes,15
+mediterraneo_l,The Mediterranean Pizza,Feta Cheese,40
+mediterraneo_l,The Mediterranean Pizza,Plum Tomatoes,60
+mediterraneo_l,The Mediterranean Pizza,Red Onions,60
+mediterraneo_m,The Mediterranean Pizza,Spinach,30
+mediterraneo_m,The Mediterranean Pizza,Artichokes,15
+mediterraneo_m,The Mediterranean Pizza,Kalamata Olives,10
+mediterraneo_m,The Mediterranean Pizza,Sun-dried Tomatoes,10
+mediterraneo_m,The Mediterranean Pizza,Feta Cheese,20
+mediterraneo_m,The Mediterranean Pizza,Plum Tomatoes,40
+mediterraneo_m,The Mediterranean Pizza,Red Onions,40
+mediterraneo_s,The Mediterranean Pizza,Spinach,15
+mediterraneo_s,The Mediterranean Pizza,Artichokes,10
+mediterraneo_s,The Mediterranean Pizza,Kalamata Olives,5
+mediterraneo_s,The Mediterranean Pizza,Sun-dried Tomatoes,5
+mediterraneo_s,The Mediterranean Pizza,Feta Cheese,10
+mediterraneo_s,The Mediterranean Pizza,Plum Tomatoes,20
+mediterraneo_s,The Mediterranean Pizza,Red Onions,20
+mexicana_l,The Mexicana Pizza,Tomatoes,30
+mexicana_l,The Mexicana Pizza,Red Peppers,15
+mexicana_l,The Mexicana Pizza,Jalapeno Peppers,15
+mexicana_l,The Mexicana Pizza,Red Onions,60
+mexicana_l,The Mexicana Pizza,Cilantro,15
+mexicana_l,The Mexicana Pizza,Corn,100
+mexicana_l,The Mexicana Pizza,Chipotle Sauce,30
+mexicana_l,The Mexicana Pizza,Garlic,15
+mexicana_m,The Mexicana Pizza,Tomatoes,20
+mexicana_m,The Mexicana Pizza,Red Peppers,10
+mexicana_m,The Mexicana Pizza,Jalapeno Peppers,10
+mexicana_m,The Mexicana Pizza,Red Onions,40
+mexicana_m,The Mexicana Pizza,Cilantro,10
+mexicana_m,The Mexicana Pizza,Corn,70
+mexicana_m,The Mexicana Pizza,Chipotle Sauce,20
+mexicana_m,The Mexicana Pizza,Garlic,10
+mexicana_s,The Mexicana Pizza,Tomatoes,10
+mexicana_s,The Mexicana Pizza,Red Peppers,5
+mexicana_s,The Mexicana Pizza,Jalapeno Peppers,5
+mexicana_s,The Mexicana Pizza,Red Onions,20
+mexicana_s,The Mexicana Pizza,Cilantro,5
+mexicana_s,The Mexicana Pizza,Corn,30
+mexicana_s,The Mexicana Pizza,Chipotle Sauce,10
+mexicana_s,The Mexicana Pizza,Garlic,5
+napolitana_l,The Napolitana Pizza,Tomatoes,30
+napolitana_l,The Napolitana Pizza,Anchovies,40
+napolitana_l,The Napolitana Pizza,Green Olives,15
+napolitana_l,The Napolitana Pizza,Red Onions,60
+napolitana_l,The Napolitana Pizza,Garlic,15
+napolitana_m,The Napolitana Pizza,Tomatoes,20
+napolitana_m,The Napolitana Pizza,Anchovies,30
+napolitana_m,The Napolitana Pizza,Green Olives,10
+napolitana_m,The Napolitana Pizza,Red Onions,40
+napolitana_m,The Napolitana Pizza,Garlic,10
+napolitana_s,The Napolitana Pizza,Tomatoes,10
+napolitana_s,The Napolitana Pizza,Anchovies,15
+napolitana_s,The Napolitana Pizza,Green Olives,5
+napolitana_s,The Napolitana Pizza,Red Onions,20
+napolitana_s,The Napolitana Pizza,Garlic,5
+pep_msh_pep_l,"The Pepperoni, Mushroom, and Peppers Pizza",Pepperoni,60
+pep_msh_pep_l,"The Pepperoni, Mushroom, and Peppers Pizza",Mushrooms,60
+pep_msh_pep_l,"The Pepperoni, Mushroom, and Peppers Pizza",Green Peppers,20
+pep_msh_pep_m,"The Pepperoni, Mushroom, and Peppers Pizza",Pepperoni,40
+pep_msh_pep_m,"The Pepperoni, Mushroom, and Peppers Pizza",Mushrooms,40
+pep_msh_pep_m,"The Pepperoni, Mushroom, and Peppers Pizza",Green Peppers,15
+pep_msh_pep_s,"The Pepperoni, Mushroom, and Peppers Pizza",Pepperoni,20
+pep_msh_pep_s,"The Pepperoni, Mushroom, and Peppers Pizza",Mushrooms,20
+pep_msh_pep_s,"The Pepperoni, Mushroom, and Peppers Pizza",Green Peppers,20
+pepperoni_l,The Pepperoni Pizza,Mozzarella Cheese,30
+pepperoni_l,The Pepperoni Pizza,Pepperoni,60
+pepperoni_m,The Pepperoni Pizza,Mozzarella Cheese,20
+pepperoni_m,The Pepperoni Pizza,Pepperoni,40
+pepperoni_s,The Pepperoni Pizza,Mozzarella Cheese,10
+pepperoni_s,The Pepperoni Pizza,Pepperoni,20
+peppr_salami_l,The Pepper Salami Pizza,Genoa Salami,90
+peppr_salami_l,The Pepper Salami Pizza,Capocollo,150
+peppr_salami_l,The Pepper Salami Pizza,Pepperoni,60
+peppr_salami_l,The Pepper Salami Pizza,Tomatoes,30
+peppr_salami_l,The Pepper Salami Pizza,Asiago Cheese,30
+peppr_salami_l,The Pepper Salami Pizza,Garlic,15
+peppr_salami_m,The Pepper Salami Pizza,Genoa Salami,60
+peppr_salami_m,The Pepper Salami Pizza,Capocollo,100
+peppr_salami_m,The Pepper Salami Pizza,Pepperoni,40
+peppr_salami_m,The Pepper Salami Pizza,Tomatoes,20
+peppr_salami_m,The Pepper Salami Pizza,Asiago Cheese,20
+peppr_salami_m,The Pepper Salami Pizza,Garlic,10
+peppr_salami_s,The Pepper Salami Pizza,Genoa Salami,30
+peppr_salami_s,The Pepper Salami Pizza,Capocollo,50
+peppr_salami_s,The Pepper Salami Pizza,Pepperoni,20
+peppr_salami_s,The Pepper Salami Pizza,Tomatoes,10
+peppr_salami_s,The Pepper Salami Pizza,Asiago Cheese,10
+peppr_salami_s,The Pepper Salami Pizza,Garlic,5
+prsc_argla_l,The Prosciutto and Arugula Pizza,Prosciutto di San Daniele,40
+prsc_argla_l,The Prosciutto and Arugula Pizza,Arugula,15
+prsc_argla_l,The Prosciutto and Arugula Pizza,Mozzarella Cheese,30
+prsc_argla_m,The Prosciutto and Arugula Pizza,Prosciutto di San Daniele,20
+prsc_argla_m,The Prosciutto and Arugula Pizza,Arugula,10
+prsc_argla_m,The Prosciutto and Arugula Pizza,Mozzarella Cheese,20
+prsc_argla_s,The Prosciutto and Arugula Pizza,Prosciutto di San Daniele,10
+prsc_argla_s,The Prosciutto and Arugula Pizza,Arugula,5
+prsc_argla_s,The Prosciutto and Arugula Pizza,Mozzarella Cheese,10
+sicilian_l,The Sicilian Pizza,Coarse Sicilian Salami,120
+sicilian_l,The Sicilian Pizza,Tomatoes,30
+sicilian_l,The Sicilian Pizza,Green Olives,15
+sicilian_l,The Sicilian Pizza,Luganega Sausage,60
+sicilian_l,The Sicilian Pizza,Onions,30
+sicilian_l,The Sicilian Pizza,Garlic,15
+sicilian_m,The Sicilian Pizza,Coarse Sicilian Salami,80
+sicilian_m,The Sicilian Pizza,Tomatoes,20
+sicilian_m,The Sicilian Pizza,Green Olives,10
+sicilian_m,The Sicilian Pizza,Luganega Sausage,40
+sicilian_m,The Sicilian Pizza,Onions,20
+sicilian_m,The Sicilian Pizza,Garlic,10
+sicilian_s,The Sicilian Pizza,Coarse Sicilian Salami,40
+sicilian_s,The Sicilian Pizza,Tomatoes,10
+sicilian_s,The Sicilian Pizza,Green Olives,5
+sicilian_s,The Sicilian Pizza,Luganega Sausage,20
+sicilian_s,The Sicilian Pizza,Onions,10
+sicilian_s,The Sicilian Pizza,Garlic,5
+soppressata_l,The Soppressata Pizza,Soppressata Salami,150
+soppressata_l,The Soppressata Pizza,Fontina Cheese,30
+soppressata_l,The Soppressata Pizza,Mozzarella Cheese,30
+soppressata_l,The Soppressata Pizza,Mushrooms,60
+soppressata_l,The Soppressata Pizza,Garlic,15
+soppressata_m,The Soppressata Pizza,Soppressata Salami,100
+soppressata_m,The Soppressata Pizza,Fontina Cheese,20
+soppressata_m,The Soppressata Pizza,Mozzarella Cheese,20
+soppressata_m,The Soppressata Pizza,Mushrooms,40
+soppressata_m,The Soppressata Pizza,Garlic,10
+soppressata_s,The Soppressata Pizza,Soppressata Salami,50
+soppressata_s,The Soppressata Pizza,Fontina Cheese,10
+soppressata_s,The Soppressata Pizza,Mozzarella Cheese,10
+soppressata_s,The Soppressata Pizza,Mushrooms,20
+soppressata_s,The Soppressata Pizza,Garlic,5
+southw_ckn_l,The Southwest Chicken Pizza,Chicken,150
+southw_ckn_l,The Southwest Chicken Pizza,Tomatoes,30
+southw_ckn_l,The Southwest Chicken Pizza,Red Peppers,15
+southw_ckn_l,The Southwest Chicken Pizza,Red Onions,60
+southw_ckn_l,The Southwest Chicken Pizza,Jalapeno Peppers,15
+southw_ckn_l,The Southwest Chicken Pizza,Corn,100
+southw_ckn_l,The Southwest Chicken Pizza,Cilantro,15
+southw_ckn_l,The Southwest Chicken Pizza,Chipotle Sauce,30
+southw_ckn_m,The Southwest Chicken Pizza,Chicken,100
+southw_ckn_m,The Southwest Chicken Pizza,Tomatoes,20
+southw_ckn_m,The Southwest Chicken Pizza,Red Peppers,10
+southw_ckn_m,The Southwest Chicken Pizza,Red Onions,40
+southw_ckn_m,The Southwest Chicken Pizza,Jalapeno Peppers,10
+southw_ckn_m,The Southwest Chicken Pizza,Corn,70
+southw_ckn_m,The Southwest Chicken Pizza,Cilantro,10
+southw_ckn_m,The Southwest Chicken Pizza,Chipotle Sauce,20
+southw_ckn_s,The Southwest Chicken Pizza,Chicken,50
+southw_ckn_s,The Southwest Chicken Pizza,Tomatoes,10
+southw_ckn_s,The Southwest Chicken Pizza,Red Peppers,5
+southw_ckn_s,The Southwest Chicken Pizza,Red Onions,20
+southw_ckn_s,The Southwest Chicken Pizza,Jalapeno Peppers,5
+southw_ckn_s,The Southwest Chicken Pizza,Corn,30
+southw_ckn_s,The Southwest Chicken Pizza,Cilantro,5
+southw_ckn_s,The Southwest Chicken Pizza,Chipotle Sauce,10
+spicy_ital_l,The Spicy Italian Pizza,Capocollo,150
+spicy_ital_l,The Spicy Italian Pizza,Tomatoes,30
+spicy_ital_l,The Spicy Italian Pizza,Goat Cheese,60
+spicy_ital_l,The Spicy Italian Pizza,Artichokes,20
+spicy_ital_l,The Spicy Italian Pizza,Peperoncini verdi,15
+spicy_ital_l,The Spicy Italian Pizza,Garlic,15
+spicy_ital_m,The Spicy Italian Pizza,Capocollo,100
+spicy_ital_m,The Spicy Italian Pizza,Tomatoes,20
+spicy_ital_m,The Spicy Italian Pizza,Goat Cheese,40
+spicy_ital_m,The Spicy Italian Pizza,Artichokes,15
+spicy_ital_m,The Spicy Italian Pizza,Peperoncini verdi,10
+spicy_ital_m,The Spicy Italian Pizza,Garlic,10
+spicy_ital_s,The Spicy Italian Pizza,Capocollo,50
+spicy_ital_s,The Spicy Italian Pizza,Tomatoes,10
+spicy_ital_s,The Spicy Italian Pizza,Goat Cheese,20
+spicy_ital_s,The Spicy Italian Pizza,Artichokes,10
+spicy_ital_s,The Spicy Italian Pizza,Peperoncini verdi,5
+spicy_ital_s,The Spicy Italian Pizza,Garlic,5
+spin_pesto_l,The Spinach Pesto Pizza,Spinach,45
+spin_pesto_l,The Spinach Pesto Pizza,Artichokes,20
+spin_pesto_l,The Spinach Pesto Pizza,Tomatoes,30
+spin_pesto_l,The Spinach Pesto Pizza,Sun-dried Tomatoes,15
+spin_pesto_l,The Spinach Pesto Pizza,Garlic,15
+spin_pesto_l,The Spinach Pesto Pizza,Pesto Sauce,30
+spin_pesto_m,The Spinach Pesto Pizza,Spinach,30
+spin_pesto_m,The Spinach Pesto Pizza,Artichokes,15
+spin_pesto_m,The Spinach Pesto Pizza,Tomatoes,20
+spin_pesto_m,The Spinach Pesto Pizza,Sun-dried Tomatoes,10
+spin_pesto_m,The Spinach Pesto Pizza,Garlic,10
+spin_pesto_m,The Spinach Pesto Pizza,Pesto Sauce,20
+spin_pesto_s,The Spinach Pesto Pizza,Spinach,15
+spin_pesto_s,The Spinach Pesto Pizza,Artichokes,10
+spin_pesto_s,The Spinach Pesto Pizza,Tomatoes,10
+spin_pesto_s,The Spinach Pesto Pizza,Sun-dried Tomatoes,5
+spin_pesto_s,The Spinach Pesto Pizza,Garlic,5
+spin_pesto_s,The Spinach Pesto Pizza,Pesto Sauce,10
+spinach_fet_l,The Spinach and Feta Pizza,Spinach,45
+spinach_fet_l,The Spinach and Feta Pizza,Mushrooms,60
+spinach_fet_l,The Spinach and Feta Pizza,Red Onions,60
+spinach_fet_l,The Spinach and Feta Pizza,Feta Cheese,40
+spinach_fet_l,The Spinach and Feta Pizza,Garlic,15
+spinach_fet_m,The Spinach and Feta Pizza,Spinach,30
+spinach_fet_m,The Spinach and Feta Pizza,Mushrooms,40
+spinach_fet_m,The Spinach and Feta Pizza,Red Onions,40
+spinach_fet_m,The Spinach and Feta Pizza,Feta Cheese,20
+spinach_fet_m,The Spinach and Feta Pizza,Garlic,10
+spinach_fet_s,The Spinach and Feta Pizza,Spinach,15
+spinach_fet_s,The Spinach and Feta Pizza,Mushrooms,20
+spinach_fet_s,The Spinach and Feta Pizza,Red Onions,20
+spinach_fet_s,The Spinach and Feta Pizza,Feta Cheese,10
+spinach_fet_s,The Spinach and Feta Pizza,Garlic,5
+spinach_supr_l,The Spinach Supreme Pizza,Spinach,45
+spinach_supr_l,The Spinach Supreme Pizza,Red Onions,60
+spinach_supr_l,The Spinach Supreme Pizza,Pepperoni,60
+spinach_supr_l,The Spinach Supreme Pizza,Tomatoes,30
+spinach_supr_l,The Spinach Supreme Pizza,Artichokes,20
+spinach_supr_l,The Spinach Supreme Pizza,Kalamata Olives,15
+spinach_supr_l,The Spinach Supreme Pizza,Garlic,15
+spinach_supr_l,The Spinach Supreme Pizza,Asiago Cheese,30
+spinach_supr_m,The Spinach Supreme Pizza,Spinach,30
+spinach_supr_m,The Spinach Supreme Pizza,Red Onions,40
+spinach_supr_m,The Spinach Supreme Pizza,Pepperoni,40
+spinach_supr_m,The Spinach Supreme Pizza,Tomatoes,20
+spinach_supr_m,The Spinach Supreme Pizza,Artichokes,15
+spinach_supr_m,The Spinach Supreme Pizza,Kalamata Olives,10
+spinach_supr_m,The Spinach Supreme Pizza,Garlic,10
+spinach_supr_m,The Spinach Supreme Pizza,Asiago Cheese,20
+spinach_supr_s,The Spinach Supreme Pizza,Spinach,15
+spinach_supr_s,The Spinach Supreme Pizza,Red Onions,20
+spinach_supr_s,The Spinach Supreme Pizza,Pepperoni,20
+spinach_supr_s,The Spinach Supreme Pizza,Tomatoes,10
+spinach_supr_s,The Spinach Supreme Pizza,Artichokes,10
+spinach_supr_s,The Spinach Supreme Pizza,Kalamata Olives,5
+spinach_supr_s,The Spinach Supreme Pizza,Garlic,5
+spinach_supr_s,The Spinach Supreme Pizza,Asiago Cheese,10
+thai_ckn_l,The Thai Chicken Pizza,Chicken,150
+thai_ckn_l,The Thai Chicken Pizza,Pineapple,45
+thai_ckn_l,The Thai Chicken Pizza,Tomatoes,30
+thai_ckn_l,The Thai Chicken Pizza,Red Peppers,15
+thai_ckn_l,The Thai Chicken Pizza,Thai Sweet Chilli Sauce,30
+thai_ckn_m,The Thai Chicken Pizza,Chicken,100
+thai_ckn_m,The Thai Chicken Pizza,Pineapple,30
+thai_ckn_m,The Thai Chicken Pizza,Tomatoes,20
+thai_ckn_m,The Thai Chicken Pizza,Red Peppers,10
+thai_ckn_m,The Thai Chicken Pizza,Thai Sweet Chilli Sauce,20
+thai_ckn_s,The Thai Chicken Pizza,Chicken,50
+thai_ckn_s,The Thai Chicken Pizza,Pineapple,15
+thai_ckn_s,The Thai Chicken Pizza,Tomatoes,10
+thai_ckn_s,The Thai Chicken Pizza,Red Peppers,5
+thai_ckn_s,The Thai Chicken Pizza,Thai Sweet Chilli Sauce,10
+the_greek_l,The Greek Pizza,Kalamata Olives,15
+the_greek_l,The Greek Pizza,Feta Cheese,40
+the_greek_l,The Greek Pizza,Tomatoes,30
+the_greek_l,The Greek Pizza,Garlic,15
+the_greek_l,The Greek Pizza,Beef Chuck Roast,100
+the_greek_l,The Greek Pizza,Red Onions,60
+the_greek_m,The Greek Pizza,Kalamata Olives,10
+the_greek_m,The Greek Pizza,Feta Cheese,20
+the_greek_m,The Greek Pizza,Tomatoes,20
+the_greek_m,The Greek Pizza,Garlic,10
+the_greek_m,The Greek Pizza,Beef Chuck Roast,70
+the_greek_m,The Greek Pizza,Red Onions,40
+the_greek_s,The Greek Pizza,Kalamata Olives,5
+the_greek_s,The Greek Pizza,Feta Cheese,10
+the_greek_s,The Greek Pizza,Tomatoes,10
+the_greek_s,The Greek Pizza,Garlic,5
+the_greek_s,The Greek Pizza,Beef Chuck Roast,50
+the_greek_s,The Greek Pizza,Red Onions,20
+the_greek_xl,The Greek Pizza,Kalamata Olives,20
+the_greek_xl,The Greek Pizza,Feta Cheese,60
+the_greek_xl,The Greek Pizza,Tomatoes,40
+the_greek_xl,The Greek Pizza,Garlic,20
+the_greek_xl,The Greek Pizza,Beef Chuck Roast,150
+the_greek_xl,The Greek Pizza,Red Onions,80
+the_greek_xxl,The Greek Pizza,Kalamata Olives,25
+the_greek_xxl,The Greek Pizza,Feta Cheese,80
+the_greek_xxl,The Greek Pizza,Tomatoes,50
+the_greek_xxl,The Greek Pizza,Garlic,25
+the_greek_xxl,The Greek Pizza,Beef Chuck Roast,200
+the_greek_xxl,The Greek Pizza,Red Onions,100
+veggie_veg_l,The Vegetables + Vegetables Pizza,Mushrooms,60
+veggie_veg_l,The Vegetables + Vegetables Pizza,Tomatoes,30
+veggie_veg_l,The Vegetables + Vegetables Pizza,Red Peppers,15
+veggie_veg_l,The Vegetables + Vegetables Pizza,Green Peppers,20
+veggie_veg_l,The Vegetables + Vegetables Pizza,Red Onions,60
+veggie_veg_l,The Vegetables + Vegetables Pizza,Zucchini,30
+veggie_veg_l,The Vegetables + Vegetables Pizza,Spinach,45
+veggie_veg_l,The Vegetables + Vegetables Pizza,Garlic,15
+veggie_veg_m,The Vegetables + Vegetables Pizza,Mushrooms,40
+veggie_veg_m,The Vegetables + Vegetables Pizza,Tomatoes,20
+veggie_veg_m,The Vegetables + Vegetables Pizza,Red Peppers,10
+veggie_veg_m,The Vegetables + Vegetables Pizza,Green Peppers,15
+veggie_veg_m,The Vegetables + Vegetables Pizza,Red Onions,40
+veggie_veg_m,The Vegetables + Vegetables Pizza,Zucchini,20
+veggie_veg_m,The Vegetables + Vegetables Pizza,Spinach,30
+veggie_veg_m,The Vegetables + Vegetables Pizza,Garlic,10
+veggie_veg_s,The Vegetables + Vegetables Pizza,Mushrooms,20
+veggie_veg_s,The Vegetables + Vegetables Pizza,Tomatoes,10
+veggie_veg_s,The Vegetables + Vegetables Pizza,Red Peppers,5
+veggie_veg_s,The Vegetables + Vegetables Pizza,Green Peppers,20
+veggie_veg_s,The Vegetables + Vegetables Pizza,Red Onions,20
+veggie_veg_s,The Vegetables + Vegetables Pizza,Zucchini,10
+veggie_veg_s,The Vegetables + Vegetables Pizza,Spinach,15
+veggie_veg_s,The Vegetables + Vegetables Pizza,Garlic,5
