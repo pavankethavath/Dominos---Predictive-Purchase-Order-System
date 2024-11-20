@@ -50,12 +50,26 @@ Domino's aims to enhance its inventory management process by predicting future p
 ### 2. Exploratory Data Analysis (EDA)
 - **Visualized trends and patterns** such as top-selling pizzas, sales by day of the week/month, and peak hours.
 - Identified seasonality and variability in sales data.
+ 
+![CHEESE!](./Images/Sales_Trends.png)
+
+
+![CHEESE!](./Images/monthly_trend.png)
+
+ 
+![CHEESE!](./Images/weekly_trend.png)
+
+![CHEESE!](./Images/peak_hours.png)
+
+![CHEESE!](./Images/top_selling.png)
 
 ### 3. Model Development and Comparison
 Implemented and compared four forecasting models:
 - **ARIMA**: Showed a flat trend, underperforming in variability capture.
+-   ![CHEESE!](./Images/ACP_PACF.png)
 - **SARIMA**: Better seasonality capture, but lagged during sudden demand changes.
 - **Prophet**: Best model with the lowest MAPE, effectively handling trends and seasonality.
+  ![CHEESE!](./Images/prophet.png)
 - **LSTM**: Neural network approach struggled with variability but remains promising for larger datasets.
 
 ### 4. Forecasting Sales
@@ -64,7 +78,7 @@ Implemented and compared four forecasting models:
 ### 5. Ingredient Calculation
 - Calculated required quantities for each ingredient using the forecasted sales and ingredient dataset.
 - Generated a **Purchase Order** summarizing ingredient requirements.
-
+  ![CHEESE!](./Images/pruchase_order.png)
 ---
 
 ## Results
